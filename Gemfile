@@ -1,4 +1,7 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem 'jekyll',  '4.2.2'
-gem 'webrick', '1.7.0'
+source "https://rubygems.org"
+
+# gem "rails"
+
+gem "jekyll"
